@@ -1,4 +1,4 @@
-/*This is a java program Environment  */
+/*This is a java program Environment */
 
 Class HelloWorld{
   public static void main(String[] args)
